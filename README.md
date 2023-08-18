@@ -1,6 +1,11 @@
 # pvp_project
 
-A new Flutter project.
+This core code works on both ios and android. To make the evaluation simple attaching app-release.apk file which can be used to run the app.
+
+To download the app on personal device (android only):
+1. Download app-release.apk from the computer or laptop and upload it on Google Drive.
+2. Now from the Mobile device download the app-release.apk from Google Drive.
+3. At first it may reject the staging due to security issue but it an force intsalled.
 
 ## Getting Started
 
